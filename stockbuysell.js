@@ -1,4 +1,4 @@
-// iterate taek minimum number as day to buy and from that minum calculate profit
+// iterate take minimum number as day to buy and from that minum calculate profit
 // on every next element
 
 var maxProfit = function (num) {
